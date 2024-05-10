@@ -38,11 +38,11 @@ public class RefugeeService {
             }
     }
 // ---------------------------------------------------------------
-    /*
-    public void deleteRefugeeID(Integer id)
+    
+    public void deleteRefugeeID(Integer id)  // Borrado
     {
         refugeeRepo.deleteById(id);
     } 
-    */ 
+    
 
 }
